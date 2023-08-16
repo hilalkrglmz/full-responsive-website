@@ -25,9 +25,9 @@ https://github.com/hilalkrglmz/full-responsive-website/assets/140657703/f8751f0b
             </ul>
             <h2>SETUP and USE</h2>
         <ol>
-            <li>Projeyi bilgisayarınıza klonlayın: <code>git clone https://github.com/hilalkrglmz/full-responsive-website.git</code></li>
-            <li>Proje klasörüne gidin: <code>cd full-responsive-website</code></li>
-            <li>Projeyi tarayıcınızda açın: <code>index.html</code></li>
+            <li>Clone the project on your computer: <code>git clone https://github.com/hilalkrglmz/full-responsive-website.git</code></li>
+            <li>Go to the project folder: <code>cd full-responsive-website</code></li>
+            <li>Open the project in your browser: <code>index.html</code></li>
         </ol>
     </div>
 </body>
